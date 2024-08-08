@@ -1,0 +1,1 @@
+It’s an app where points are earned by pressing the flower symbol that appears on the screen within the 10 seconds given by the timer. The highest score archieved is saved and the score is not lost after the game is closed and reopened. There are also functions to replay or close the game when it’s over.
